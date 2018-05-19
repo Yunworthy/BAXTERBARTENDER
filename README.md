@@ -13,7 +13,9 @@ Once client arrives, Baxter recognizes client by AR_TAG and begins preparing the
 
 ![image](https://user-images.githubusercontent.com/14130139/40274169-f759b228-5b84-11e8-8fd1-89bfebd64c54.png)
 
+. 
+. 
+. 
 
-
-
+Full video here: 
 https://www.youtube.com/watch?v=AcUid5Vz0GI
